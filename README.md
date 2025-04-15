@@ -1,27 +1,24 @@
 <h2 align="left">About Me</h2>
-
----
-###
-
 <p align="left">👋 Hi there! I'm <strong>Rick</strong> an audio artist exploring the surface of the programming realm to gain new creative tools.</p>
 
 ---
 ###
-<h3 align="left">🔭 I’m currently working on: </h3>
-- 📦 Developing a minimal LOCAL e-commerce/inventory helper-toolkit using Streamlit + Pandas;
-- 🌱 Building a small Python-based audio file organizer (made for myself):
-  - Bulk renaming;
-  - Bulk normalization to -0.2dB;
-  - ...maybe something else in the future;
+<h3 align="left">🔭 I’m currently working on: </h3></br>
+
+- 📦 Developing a minimal LOCAL e-commerce/inventory helper-toolkit using Streamlit + Pandas;</br>
+- 🌱 Building a small Python-based audio file organizer (made for myself):</br>
+  - Bulk renaming;</br>
+  - Bulk normalization to -0.2dB;</br>
+  - ...maybe something else in the future;</br>
 
 
-- Tag/mention me on GitHub via comments using `@Rick-XCV`
+- Tag/mention me on GitHub via comments using `@Rick-XCV`</br>
 - I don’t check GitHub daily, but you can summon me throug notifications.
 
 ---
 ###
 
-<h3 align="left">🛠 Tools</h3>
+<h3 align="left">🛠 Tools:</h3>
 
 ###
 
