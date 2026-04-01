@@ -1,11 +1,11 @@
 <h2 align="left">About Me</h2>
 <p align="left">👋 Hi there! I'm <strong>Rick</strong> an audio artist exploring the surface of the programming realm to gain new creative tools.</p>
+<p align="left">I'm a generalist in an era for specialists: if my day ends up with 20 free minutes, chance are I'm gonna try learn something.</p>
 
 ---
 ###
 <h3 align="left">🔭 I’m currently working on: </h3></br>
 
-- 📦 Developing a minimal LOCAL e-commerce/inventory helper-toolkit using Streamlit + Pandas;</br>
 - 🌱 Building a small Python-based audio file organizer (made for myself):</br>
   - Bulk renaming;</br>
   - Bulk normalization to -0.2dB;</br>
