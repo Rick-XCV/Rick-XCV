@@ -5,7 +5,6 @@
 ---
 ###
 <h3 align="left">🔭 I’m currently working on: </h3></br>
-
 - 🌱 Building a small Python-based audio file organizer (made for myself):</br>
   - Bulk renaming;</br>
   - Bulk normalization to -0.2dB;</br>
