@@ -10,8 +10,10 @@
   - Bulk renaming;</br>
   - Bulk normalization to -0.2dB;</br>
   - ...maybe something else in the future;</br>
-
-
+  
+</br>
+---
+###
 - Tag/mention me on GitHub via comments using `@Rick-XCV`</br>
 - I don’t check GitHub daily, but you can summon me throug notifications.
 
